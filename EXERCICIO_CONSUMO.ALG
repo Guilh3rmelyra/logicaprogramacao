@@ -1,4 +1,4 @@
-Algoritmo "consumo"
+Algoritmo "exercicio_consumo"
 
 
 
