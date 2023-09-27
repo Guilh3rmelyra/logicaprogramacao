@@ -1,4 +1,4 @@
-Algoritmo "medidas"
+Algoritmo "exercicio_medidas"
 
 
 
