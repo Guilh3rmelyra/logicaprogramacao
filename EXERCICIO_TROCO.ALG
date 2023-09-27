@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "exercicio_troco"
 
 
 
@@ -8,7 +8,7 @@ Var
 
 Inicio
 
-     escreva("PreÁo unit·rio do produto: ")
+     escreva("Pre√ßo unit√°rio do produto: ")
      leia(preco)
      escreva("Quantidade comprada: ")
      leia(quantidade)
