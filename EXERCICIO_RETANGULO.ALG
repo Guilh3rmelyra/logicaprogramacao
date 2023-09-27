@@ -1,4 +1,4 @@
-Algoritmo "retangulo"
+Algoritmo "excercicio_retangulo"
 
 Var
       base, altura, area, perimetro, diagonal : real
