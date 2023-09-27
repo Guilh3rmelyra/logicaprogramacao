@@ -1,4 +1,4 @@
-Algoritmo "idades"
+Algoritmo "exercicio_idades"
 
 
 Var
