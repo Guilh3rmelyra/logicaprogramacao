@@ -1,4 +1,4 @@
-Algoritmo "pagamento"
+Algoritmo "exercicio_pagamento"
 
 
 
