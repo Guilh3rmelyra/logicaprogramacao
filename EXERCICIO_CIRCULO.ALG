@@ -1,4 +1,4 @@
-Algoritmo "circulo"
+Algoritmo "exercicio_circulo"
 
 
 
