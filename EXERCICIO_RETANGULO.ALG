@@ -12,7 +12,7 @@ Inicio
 
      area <- (base * altura)
      perimetro <- (base + altura) * 2.0
-     diagonal <- (base^2 + altura^2)
+     diagonal <- RaizQ(base^2 + altura^2)
      
 
      escreval("AREA = ",area:8:4)
