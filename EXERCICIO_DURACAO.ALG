@@ -4,17 +4,18 @@ Algoritmo "semnome"
 
 Var
 
-   hora, minutos, segundos, DuracaoSegundos : inteiro
+   hora, minutos, segundos, resto, duracaoSegundos : inteiro
 
 
 Inicio
 
-    escreva("Digite a duração em segundos: ")
-    leia(DuracaoSegundos)
+    escreva("Digite a duraÃ§Ã£o em segundos: ")
+    leia(duracaoSegundos)
     
-    hora <- (DuracaoSegundos \ 3600)
-    minutos <- (DuracaoSegundos - (hora * 3600)) \ 60
-    segundos <- (DuracaoSegundos - (hora * 3600) - (minutos * 60))
+    hora <- duracaoSegundos \ 3600
+    resto <- duracaoSegundos % 3600
+    minutos <- resto \ 60
+    segundos <- resto % 60
     
     escreva(hora:1:0,":",minutos:1:0,":",segundos:1:0)
 
